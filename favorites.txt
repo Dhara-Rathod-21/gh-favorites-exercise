@@ -1,4 +1,14 @@
+======
+foods
+=========
 pizza
 momos
 manchunriyan
 dosa
+========
+Movies
+========
+chor nikl ke bhaga
+shidt
+fida
+
